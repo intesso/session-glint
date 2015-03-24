@@ -1,0 +1,26 @@
+{
+  "name": "session-glint",
+  "version": "1.0.0",
+  "description": "Glint Adapter session store for Express and Connect",
+  "keywords": [
+    "connect",
+    "mongo",
+    "mongodb",
+    "session",
+    "express"
+  ],
+  "author": "Andi Neck <andi.neck@intesso.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intesso/session-glint.git"
+  },
+  "dependencies": {
+    "debug": "^2.1.3",
+    "utils-merge": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo TODO"
+  },
+  "main": "./lib/session-glint"
+}
